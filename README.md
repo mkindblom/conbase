@@ -1,4 +1,4 @@
-# conbase
+[logo]: https://github.com/conbase/conbase/blob/master/conbase_logo.png "Conbase logo"
 
 ## conbase algorithm description
  
